@@ -7,6 +7,12 @@
 
 <br>
 
+<div align="center">
+  <img src="https://github.com/JacobDicksonOfficial/JacobDicksonOfficial/blob/output/github-snake-dark.svg" alt="snake gif">
+</div>
+
+<br>
+
 <table>
   <tr>
     <td>
@@ -44,3 +50,7 @@
 JacobDicksonOfficial/JacobDicksonOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<div align="center">
+  <img src="https://github.com/JacobDicksonOfficial/JacobDicksonOfficial/blob/output/github-snake-dark.svg" alt="snake gif">
+</div>
