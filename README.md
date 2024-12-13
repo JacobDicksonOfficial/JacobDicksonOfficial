@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @JacobDicksonOfficial  
-- 👀 I’m interested in Cybersecurity  
-- 🌱 I’m currently studying Computer Forensics & Security  
-- 💞️ I’m looking to collaborate on some GitHub Projects  
-- 📫 How to reach me - [jjacobdofficial@gmail.com](mailto:jjacobdofficial@gmail.com)  
-- ⚡ Fun fact: Nothing Here !!
 
 <br>
 
