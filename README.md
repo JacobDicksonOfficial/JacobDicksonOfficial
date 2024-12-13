@@ -26,8 +26,6 @@
   </table>
 </div>
 
-<br>
-
 <div align="center">
   <img src="https://github.com/JacobDicksonOfficial/JacobDicksonOfficial/blob/output/github-snake-dark.svg" alt="snake gif">
 </div>
