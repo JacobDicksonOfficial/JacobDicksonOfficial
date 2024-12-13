@@ -5,9 +5,11 @@
 - 📫 How to reach me - jjacobdofficial@gmail.com
 - ⚡ Fun fact: Nothing Here !!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacobDicksonOfficial)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacobDicksonOfficial&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacobDicksonOfficial&show_icons=true&theme=merko)
+
 
 
 <!---
