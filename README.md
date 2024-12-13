@@ -14,9 +14,7 @@
   </tr>
 </table>
 
-<div style="text-align: center;">
-  <img src="https://github.com/JacobDicksonOfficial/JacobDicksonOfficial/blob/main/images/dev1.gif" width="1100" height="100" alt="Banner">
-</div>
+
 
 <!---
 JacobDicksonOfficial/JacobDicksonOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
