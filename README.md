@@ -1,3 +1,6 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacobDicksonOfficial)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 👋 Hi, I’m @JacobDicksonOfficial
 - 👀 I’m interested in Cybersecurity 
 - 🌱 I’m currently studying Computer Forensics & Security 
