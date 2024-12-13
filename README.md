@@ -7,10 +7,12 @@
 
 <br>
 <br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacobDicksonOfficial&show_icons=true&theme=merko)
-
-
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=JacobDicksonOfficial&show_icons=true&theme=merko" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=JacobDicksonOfficial&theme=merko" /></td>
+  </tr>
+</table>
 
 <!---
 JacobDicksonOfficial/JacobDicksonOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
