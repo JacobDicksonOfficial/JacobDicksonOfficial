@@ -7,6 +7,23 @@
 
 <br>
 
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/JacobDicksonOfficial">
+        <img src="https://github-readme-stats.vercel.app/api?username=JacobDicksonOfficial&show_icons=true&theme=merko&v=3" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=JacobDicksonOfficial&theme=merko&v=3" alt="GitHub Streak Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -22,24 +39,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
-
-<br>
-<br>
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/JacobDicksonOfficial">
-        <img src="https://github-readme-stats.vercel.app/api?username=JacobDicksonOfficial&show_icons=true&theme=merko&v=3" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=JacobDicksonOfficial&theme=merko&v=3" alt="GitHub Streak Stats" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 <!---
 JacobDicksonOfficial/JacobDicksonOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
