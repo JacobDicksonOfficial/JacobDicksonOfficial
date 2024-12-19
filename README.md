@@ -1,12 +1,21 @@
-<div align="center" style="white-space: nowrap;">
-  <!-- GitHub Stats -->
-  <a href="https://github.com/JacobDicksonOfficial" style="display: inline-block; margin-right: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=JacobDicksonOfficial&show_icons=true&theme=merko&v=3" alt="GitHub Stats" style="width: 300px;" />
-  </a>
-  <!-- GitHub Streaks -->
-  <a href="https://git.io/streak-stats" style="display: inline-block;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=JacobDicksonOfficial&theme=merko&v=3" alt="GitHub Streak Stats" style="width: 300px;" />
-  </a>
+<div align="center">
+<table>
+<tr>
+<!-- GitHub Stats -->
+<td>
+<a href="https://github.com/JacobDicksonOfficial">
+<img src="https://github-readme-stats.vercel.app/api?username=JacobDicksonOfficial&show_icons=true&theme=merko&v=3" alt="GitHub Stats" />
+</a>
+</td>
+<!-- GitHub Streaks -->
+<td>
+<a href="https://git.io/streak-stats">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=JacobDicksonOfficial&theme=merko&v=3" alt="GitHub Streak Stats" />
+</a>
+</td>
+</tr>
+</table>
+</div>
 </div>
 
 
